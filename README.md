@@ -2,7 +2,8 @@
 
 **Project Overview:**
 
-Requirements:
+--Requirements:--
+
 1. Streamlit
 2. sentence-transformers
 3. uvicorn
@@ -12,6 +13,7 @@ Requirements:
 
 
 --> To create a Generative AI application through LLM calling and the LLM we used was Llama 2-7b accessed from Huggingface 
+
 --> The application was built using Streamlit:
 
 ![blog page new](https://github.com/user-attachments/assets/9fdaf386-f69c-40bd-81dc-38dd30477e38)
