@@ -14,7 +14,7 @@
 
 --> To create a Generative AI application through LLM calling and the LLM we used was Llama 2-7b accessed from    Huggingface 
 
-[https://huggingface.co/docs/transformers/en/model_doc/llama2](url)
+For more info on Llama2: [https://huggingface.co/docs/transformers/en/model_doc/llama2](url)
 
 --> The application was built using Streamlit:
 
